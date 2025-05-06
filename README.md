@@ -1,2 +1,1 @@
-# Tsv5-internal
-Tsv5 script
+# Tsv5-internal SCRIPT YOU NEED PYTHON FOR IT TO WORK!!!
